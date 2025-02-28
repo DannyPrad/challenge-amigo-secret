@@ -14,13 +14,6 @@ Exibir o resultado do sorteio na tela
 
 Validações para evitar nomes duplicados ou vazios
 
-📂 Estrutura do Projeto
-
-amigo-secreto/
-├─ index.html       # Estrutura da interface
-├─ style.css        # Estilos da página
-└─ app.js           # Funcionalidades do sorteio
-
 🎮 Como utilizar
 
 Faça o download ou clone este repositório.
